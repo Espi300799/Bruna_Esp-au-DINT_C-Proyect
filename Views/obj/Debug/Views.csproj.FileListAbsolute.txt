@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\GestionAlumno\Views\obj\Debug\Views.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\GestionAlumno\Views\obj\Debug\Gestion.Views.MenuView.resources
+C:\Users\PC\source\repos\GestionAlumno\Views\obj\Debug\Gestion.Views.Properties.Resources.resources
+C:\Users\PC\source\repos\GestionAlumno\Views\obj\Debug\Views.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\GestionAlumno\Views\obj\Debug\Views.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\GestionAlumno\Views\obj\Debug\Views.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\GestionAlumno\Views\obj\Debug\Gestion.Views.MenuView.resources
+C:\Users\PC\Desktop\GestionAlumno\Views\obj\Debug\Views.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\GestionAlumno\Views\obj\Debug\Views.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\GestionAlumno\Views\bin\Debug\Views.dll.config
+C:\Users\PC\Desktop\GestionAlumno\Views\bin\Debug\Views.dll
+C:\Users\PC\Desktop\GestionAlumno\Views\bin\Debug\Views.pdb
+C:\Users\PC\Desktop\GestionAlumno\Views\obj\Debug\Views.dll
+C:\Users\PC\Desktop\GestionAlumno\Views\obj\Debug\Views.pdb
+C:\Users\PC\Desktop\GestionAlumno\Views\obj\Debug\Gestion.Views.Properties.Resources.resources
+C:\Users\PC\Desktop\GestionAlumno\Views\obj\Debug\Gestion.Views.ListView.resources
+C:\Users\PC\Desktop\GestionAlumno\Views\obj\Debug\Gestion.Views.SearchView.resources
